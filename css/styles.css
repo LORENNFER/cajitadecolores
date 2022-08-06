@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0%;
+    padding: 15px;
+}
+
+.verde {
+    background-color:  purple;
+}
+
+.morado {
+    background-color: palevioletred;
+}
+
+.rosado{
+    background-color: rebeccapurple;
+}
+
+.yellow{
+    background-color: mediumorchid;
+}
+
+.naranja{
+    background-color: mediumvioletred;
+}
+.altura1 {
+    height: 400px;
+}
+
+.altura2 {
+    height: 50px;
+}
